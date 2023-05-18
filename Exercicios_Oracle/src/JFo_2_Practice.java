@@ -1,6 +1,6 @@
 public class exercicio1 {
     public static void main(String[] args) throws Exception {
- 
+
 
       /*   System.out.println( "  x x x x   ");
         System.out.println( " x       x  ");
@@ -32,6 +32,10 @@ public class exercicio1 {
 -Propriedades: Número do Pedido, Estado do Pedido, Data de Entrega
 -Comportamentos: Verificar estado do pedido, Atualizar estado do pedido */
 
+
+
+  
+ 
 
 
     }
