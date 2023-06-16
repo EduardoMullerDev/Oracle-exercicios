@@ -1,4 +1,4 @@
-public class exercicio1 {
+public class JFo_2_Practice {
     public static void main(String[] args) throws Exception {
 
 
